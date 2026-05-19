@@ -1,7 +1,8 @@
 # RozUnp
 RozUnp Un-Protector by ROZBUD. Is a Reverse Engineering Tool that effortlessly removes 'ASLR, DEB/NX, and INTEGRITY' checks from binary files (EXE &amp; DLL).  Find it in exetools.net
 
-INTRO:
+INTRO:  
+   
 ASLR (Address Space Layout Randomization)
 A security feature that randomizes where an executable and its memory sections are loaded in RAM each time the program starts. This makes memory-based attacks harder because attackers cannot easily predict memory addresses.
 Used when: You want stronger protection against exploits such as buffer overflows and code injection attacks.
